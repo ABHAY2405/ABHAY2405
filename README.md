@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Surya Prakash Baid!    
+# 👋 Hi, I'm Abhay Kumar Gupta!    
 
 Welcome to my GitHub profile!  
 I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passionate about building data-driven solutions to tackle real-world challenges. 🚀  
