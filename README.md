@@ -49,25 +49,25 @@ I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passio
 
 <p align="center">
   <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=surya-sgit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHAY2405&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sgit&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY2405&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=surya-sgit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ABHAY2405&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=surya-sgit&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAY2405&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-sgit&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY2405&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
